@@ -2,7 +2,6 @@
 
 A new Flutter project.
 
-https://user-images.githubusercontent.com/82823017/181078579-94fa6f96-f18a-4678-8c0b-dbbca53bff16.mp4
 
 
 
